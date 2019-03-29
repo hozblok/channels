@@ -1,4 +1,4 @@
-Django Channels
+Test
 ===============
 
 .. image:: https://api.travis-ci.org/django/channels.svg
